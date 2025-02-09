@@ -17,6 +17,7 @@ User Input:
     "amount": 150000,
     "unit": "JPY",
     "description": "Used for purchasing basic alpine board, protective gear, and clothing."
-  }
+  },
+  "personality": "seek help from others or coaches when necessary"
 }
 ```
